@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+#botaoenviar{
+    margin-top: 20px;
+    margin-bottom:20px ;
+}
+
+#botaoorganisar{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+imput{
+    margin: 10px;
+}
